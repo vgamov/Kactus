@@ -1,7 +1,7 @@
 {
   "_class": "shapeGroup",
   "clippingMaskMode": 0,
-  "do_objectID": "74585F94-8147-48FE-A279-EEDE6105805E",
+  "do_objectID": "98D67A91-7A65-40D9-923E-0A9201A05E84",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -14,10 +14,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": true,
-    "height": 232.764146625204,
-    "width": 232.6145092028371,
-    "x": 212.0343370641129,
-    "y": 204.0967042588657
+    "height": 7,
+    "width": 7,
+    "x": 184,
+    "y": 50
   },
   "hasClickThrough": false,
   "hasClippingMask": false,
@@ -28,19 +28,15 @@
   "layerListExpandedType": 1,
   "layers": [
     {
-      "class": "oval",
-      "id": "F10939E9-E7F1-45A5-92E8-8DB30E3F1E7C"
-    },
-    {
-      "class": "oval",
-      "id": "43E58787-783A-4450-93DA-762BD20263F8"
+      "class": "rectangle",
+      "id": "894CAF52-B6C5-40E0-A36D-E9D46393C30B"
     }
   ],
-  "name": "duplicate_4_original_Combined Shape_69624199",
-  "nameIsFixed": false,
+  "name": "Dot",
+  "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
-  "rotation": -120,
+  "rotation": 0,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -56,15 +52,10 @@
         },
         "fillType": 0,
         "isEnabled": false,
-        "position": 0,
+        "position": 1,
         "thickness": 1
       }
     ],
-    "contextSettings": {
-      "_class": "graphicsContextSettings",
-      "blendMode": 0,
-      "opacity": 0.4444444444444444
-    },
     "endDecorationType": 0,
     "fills": [
       {
@@ -72,9 +63,9 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.943532100340136,
-          "green": 0.7496623797616723,
-          "red": 0.02518542715751669
+          "blue": 0.9450980392156862,
+          "green": 0.7490196078431368,
+          "red": 0.0235294117647059
         },
         "fillType": 0,
         "isEnabled": true,
@@ -92,15 +83,15 @@
       "kModelPropertiesKey": {
         "constraints": {
           "aspectRatio": {
-            "constant": 232.7641,
+            "constant": 10.5,
             "enabled": 1,
-            "modelID": "constraint_5953361d-de73-4bb0-bb8d-874f6f483cfa",
+            "modelID": "constraint_127a6fdc-6705-4c7c-97eb-a50da0a4dcc4",
             "model_class": "ADModelConstraint",
             "model_version": 0.1,
-            "multiplier": 232.6145
+            "multiplier": 10.5
           },
           "automatic": 1,
-          "modelID": "viewConstraints_3237118b-af19-46e6-b786-1048053ceac0",
+          "modelID": "viewConstraints_0a13e3e1-6afc-425c-995a-a2efff5d796d",
           "model_class": "ADModelViewConstraints",
           "model_version": 0.1,
           "scaleFactor": 1

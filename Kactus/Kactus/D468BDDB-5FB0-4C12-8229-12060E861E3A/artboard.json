@@ -48,6 +48,10 @@
     {
       "class": "text",
       "id": "6A627087-FA05-46A1-B669-844B39DE3E5C"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "98D67A91-7A65-40D9-923E-0A9201A05E84"
     }
   ],
   "name": "Inner",
