@@ -65,7 +65,7 @@
             "NSParagraphStyle",
             "NSColor",
             0,
-            2,
+            1,
             {
               "$class": {
                 "UID": 18
@@ -98,7 +98,7 @@
             "NSFontSizeAttribute",
             "NSFontNameAttribute",
             28,
-            "AdventPro-Light",
+            "AdventPro-Regular",
             {
               "$classes": [
                 "NSMutableDictionary",
@@ -206,11 +206,11 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 33,
-    "width": 68,
-    "x": 30,
-    "y": 128
+    "width": 84,
+    "x": 21,
+    "y": 138
   },
-  "glyphBounds": "{{1, 7}, {66, 21}}",
+  "glyphBounds": "{{2, 7}, {80, 21}}",
   "heightIsClipped": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
@@ -270,7 +270,7 @@
                 "NSFontSizeAttribute",
                 "NSFontNameAttribute",
                 28,
-                "AdventPro-Light",
+                "AdventPro-Regular",
                 {
                   "$classes": [
                     "NSMutableDictionary",
@@ -296,7 +296,7 @@
             }
           ]
         },
-        "MSAttributedStringTextTransformAttribute": 2,
+        "MSAttributedStringTextTransformAttribute": 1,
         "NSColor": {
           "_archive": [
             {

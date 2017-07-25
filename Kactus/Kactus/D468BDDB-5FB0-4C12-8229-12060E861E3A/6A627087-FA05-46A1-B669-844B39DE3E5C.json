@@ -326,11 +326,11 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 72,
-    "width": 195,
-    "x": 90,
-    "y": 90
+    "width": 187,
+    "x": 94,
+    "y": 87
   },
-  "glyphBounds": "{{12, 7}, {170, 59}}",
+  "glyphBounds": "{{8, 7}, {170, 59}}",
   "heightIsClipped": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
