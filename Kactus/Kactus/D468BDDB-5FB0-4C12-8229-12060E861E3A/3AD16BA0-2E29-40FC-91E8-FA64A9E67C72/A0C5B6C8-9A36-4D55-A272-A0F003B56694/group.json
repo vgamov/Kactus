@@ -1,6 +1,6 @@
 {
   "_class": "group",
-  "do_objectID": "5F5DF864-A955-4323-8DFB-C5F8DB97EEF0",
+  "do_objectID": "A0C5B6C8-9A36-4D55-A272-A0F003B56694",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -13,21 +13,21 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": true,
-    "height": 128,
-    "width": 128,
-    "x": 0,
-    "y": 0
+    "height": 641,
+    "width": 640,
+    "x": 0.5,
+    "y": -0.5
   },
   "hasClickThrough": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "group",
-      "id": "9BA3A8B1-F8F2-48B4-86AE-A0291081CB58"
+      "id": "CE5B961A-34FB-4363-9933-9B7BBAD670F4"
     }
   ],
   "name": "Looper_Group",
@@ -45,6 +45,21 @@
   "userInfo": {
     "com.animaapp.stc-sketch-plugin": {
       "kModelPropertiesKey": {
+        "constraints": {
+          "aspectRatio": {
+            "constant": 128,
+            "enabled": 1,
+            "modelID": "constraint_267270e3-7c41-44eb-8517-0509f60b67a2",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 128
+          },
+          "automatic": 1,
+          "modelID": "viewConstraints_22c5098e-f07c-476f-825b-d2f2e9ea1648",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0.1,
+          "scaleFactor": 1
+        }
       }
     }
   }

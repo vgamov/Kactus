@@ -10,7 +10,7 @@
             "$null",
             {
               "$class": {
-                "UID": 22
+                "UID": 26
               },
               "NSAttributes": {
                 "UID": 3
@@ -22,7 +22,7 @@
             "Kactus",
             {
               "$class": {
-                "UID": 21
+                "UID": 25
               },
               "NS.keys": [
                 {
@@ -33,30 +33,112 @@
                 },
                 {
                   "UID": 6
+                },
+                {
+                  "UID": 7
+                },
+                {
+                  "UID": 8
                 }
               ],
               "NS.objects": [
                 {
-                  "UID": 7
+                  "UID": 9
+                },
+                {
+                  "UID": 10
                 },
                 {
                   "UID": 11
                 },
                 {
-                  "UID": 13
+                  "UID": 19
+                },
+                {
+                  "UID": 21
                 }
               ]
             },
-            "NSColor",
-            "NSParagraphStyle",
+            "NSKern",
+            "MSAttributedStringTextTransformAttribute",
             "MSAttributedStringFontAttribute",
+            "NSParagraphStyle",
+            "NSColor",
+            0,
+            1,
             {
               "$class": {
-                "UID": 10
+                "UID": 18
+              },
+              "NSFontDescriptorAttributes": {
+                "UID": 12
+              }
+            },
+            {
+              "$class": {
+                "UID": 17
+              },
+              "NS.keys": [
+                {
+                  "UID": 13
+                },
+                {
+                  "UID": 14
+                }
+              ],
+              "NS.objects": [
+                {
+                  "UID": 15
+                },
+                {
+                  "UID": 16
+                }
+              ]
+            },
+            "NSFontSizeAttribute",
+            "NSFontNameAttribute",
+            28,
+            "AdventPro-Regular",
+            {
+              "$classes": [
+                "NSMutableDictionary",
+                "NSDictionary",
+                "NSObject"
+              ],
+              "$classname": "NSMutableDictionary"
+            },
+            {
+              "$classes": [
+                "NSFontDescriptor",
+                "NSObject"
+              ],
+              "$classname": "NSFontDescriptor"
+            },
+            {
+              "$class": {
+                "UID": 20
+              },
+              "NSAlignment": 2,
+              "NSAllowsTighteningForTruncation": 1,
+              "NSTabStops": {
+                "UID": 0
+              }
+            },
+            {
+              "$classes": [
+                "NSMutableParagraphStyle",
+                "NSParagraphStyle",
+                "NSObject"
+              ],
+              "$classname": "NSMutableParagraphStyle"
+            },
+            {
+              "$class": {
+                "UID": 24
               },
               "NSColorSpace": 1,
               "NSCustomColorSpace": {
-                "UID": 8
+                "UID": 22
               },
               "NSRGB": {
                 "data": "0 0 0\u0000",
@@ -65,7 +147,7 @@
             },
             {
               "$class": {
-                "UID": 9
+                "UID": 23
               },
               "NSID": 1
             },
@@ -82,71 +164,6 @@
                 "NSObject"
               ],
               "$classname": "NSColor"
-            },
-            {
-              "$class": {
-                "UID": 12
-              },
-              "NSAlignment": 4,
-              "NSAllowsTighteningForTruncation": 1,
-              "NSTabStops": {
-                "UID": 0
-              }
-            },
-            {
-              "$classes": [
-                "NSParagraphStyle",
-                "NSObject"
-              ],
-              "$classname": "NSParagraphStyle"
-            },
-            {
-              "$class": {
-                "UID": 20
-              },
-              "NSFontDescriptorAttributes": {
-                "UID": 14
-              }
-            },
-            {
-              "$class": {
-                "UID": 19
-              },
-              "NS.keys": [
-                {
-                  "UID": 15
-                },
-                {
-                  "UID": 16
-                }
-              ],
-              "NS.objects": [
-                {
-                  "UID": 17
-                },
-                {
-                  "UID": 18
-                }
-              ]
-            },
-            "NSFontSizeAttribute",
-            "NSFontNameAttribute",
-            36,
-            "PasseroOne-Regular",
-            {
-              "$classes": [
-                "NSMutableDictionary",
-                "NSDictionary",
-                "NSObject"
-              ],
-              "$classname": "NSMutableDictionary"
-            },
-            {
-              "$classes": [
-                "NSFontDescriptor",
-                "NSObject"
-              ],
-              "$classname": "NSFontDescriptor"
             },
             {
               "$classes": [
@@ -188,12 +205,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 43,
-    "width": 95,
-    "x": 17,
-    "y": 128
+    "height": 33,
+    "width": 84,
+    "x": 21,
+    "y": 138
   },
-  "glyphBounds": "{{2, 8}, {92, 26}}",
+  "glyphBounds": "{{2, 7}, {80, 21}}",
   "heightIsClipped": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
@@ -252,8 +269,8 @@
                 },
                 "NSFontSizeAttribute",
                 "NSFontNameAttribute",
-                36,
-                "PasseroOne-Regular",
+                28,
+                "AdventPro-Regular",
                 {
                   "$classes": [
                     "NSMutableDictionary",
@@ -279,6 +296,7 @@
             }
           ]
         },
+        "MSAttributedStringTextTransformAttribute": 1,
         "NSColor": {
           "_archive": [
             {
@@ -328,6 +346,7 @@
             }
           ]
         },
+        "NSKern": 0,
         "NSParagraphStyle": {
           "_archive": [
             {
@@ -338,7 +357,7 @@
                   "$class": {
                     "UID": 2
                   },
-                  "NSAlignment": 4,
+                  "NSAlignment": 2,
                   "NSAllowsTighteningForTruncation": 1,
                   "NSTabStops": {
                     "UID": 0
@@ -346,10 +365,11 @@
                 },
                 {
                   "$classes": [
+                    "NSMutableParagraphStyle",
                     "NSParagraphStyle",
                     "NSObject"
                   ],
-                  "$classname": "NSParagraphStyle"
+                  "$classname": "NSMutableParagraphStyle"
                 }
               ],
               "$top": {
@@ -368,6 +388,21 @@
   "userInfo": {
     "com.animaapp.stc-sketch-plugin": {
       "kModelPropertiesKey": {
+        "constraints": {
+          "automatic": 1,
+          "centerHorizontally": {
+            "constant": -0.5,
+            "enabled": 1,
+            "modelID": "constraint_7ce6b668-3010-4008-b986-7af9b39d2600",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 0
+          },
+          "modelID": "viewConstraints_bfa0e363-fb42-484b-8b00-84dc9cae9f34",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0.1,
+          "scaleFactor": 1
+        },
         "isAutoWidth": 1
       }
     }

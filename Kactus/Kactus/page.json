@@ -1,13 +1,6 @@
 {
-  "_class": "artboard",
-  "backgroundColor": {
-    "_class": "color",
-    "alpha": 1,
-    "blue": 1,
-    "green": 1,
-    "red": 1
-  },
-  "do_objectID": "1E54ED2E-0C32-46CF-9A82-881DB462D388",
+  "_class": "page",
+  "do_objectID": "3b49c760-7176-11e7-ad6e-794f2bfcda22",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -20,35 +13,36 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 667,
-    "width": 375,
-    "x": 691,
-    "y": 207
+    "height": 300,
+    "width": 300,
+    "x": 0,
+    "y": 0
   },
-  "hasBackgroundColor": false,
   "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
-    "base": 0,
+    "base": -333,
     "guides": [
     ]
   },
-  "includeBackgroundColorInExport": true,
   "includeInCloudUpload": true,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "group",
-      "id": "FEF2E12E-5AE9-4792-A1F8-98FF8EF73545"
+      "class": "artboard",
+      "id": "1E54ED2E-0C32-46CF-9A82-881DB462D388"
+    },
+    {
+      "class": "artboard",
+      "id": "D468BDDB-5FB0-4C12-8229-12060E861E3A"
     }
   ],
-  "name": "iPhone 7",
-  "nameIsFixed": false,
-  "resizesContent": false,
+  "name": "Kactus",
+  "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
@@ -61,7 +55,7 @@
   },
   "verticalRulerData": {
     "_class": "rulerData",
-    "base": 0,
+    "base": -265,
     "guides": [
     ]
   }
