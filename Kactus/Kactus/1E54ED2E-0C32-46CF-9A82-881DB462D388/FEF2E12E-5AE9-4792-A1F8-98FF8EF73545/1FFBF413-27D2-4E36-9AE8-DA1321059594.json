@@ -141,7 +141,7 @@
                 "UID": 22
               },
               "NSRGB": {
-                "data": "0 0 0\u0000",
+                "data": "1 1 1\u0000",
                 "type": "Buffer"
               }
             },
@@ -207,7 +207,7 @@
     "constrainProportions": false,
     "height": 33,
     "width": 84,
-    "x": 21,
+    "x": 22,
     "y": 138
   },
   "glyphBounds": "{{2, 7}, {80, 21}}",
@@ -312,7 +312,7 @@
                     "UID": 2
                   },
                   "NSRGB": {
-                    "data": "0 0 0\u0000",
+                    "data": "1 1 1\u0000",
                     "type": "Buffer"
                   }
                 },
